@@ -17,6 +17,7 @@ Here are some of the technologies and tools that I am proficient in:
 ![CSS3](https://img.icons8.com/color/48/000000/css3.png)
 ![HTML5](https://img.icons8.com/color/48/000000/html-5.png)
 ![JSON](https://img.icons8.com/color/48/000000/json.png)
+![npm](https://img.icons8.com/color/48/000000/npm.png)
 ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)
 ![Express.js](https://img.icons8.com/color/48/000000/express.png)
 ![Handlebars.js](https://img.icons8.com/color/48/000000/handlebarsjs.png)
