@@ -8,15 +8,13 @@ Hi, my name is Nari Lee.
 Here are some of the technologies and tools that I am proficient in:
 
 - Programming Language: 
-    - C: ![C](https://img.icons8.com/color/48/000000/c-programming.png)
-    - C++: ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
-    - Python: ![Python](https://img.icons8.com/color/48/000000/python.png)
-    - Java: ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
-    - JavaScript: ![JavaScript](https://img.icons8.com/color/48/000000/javascript-logo-1.png)
+    ![C](https://img.icons8.com/color/48/000000/c-programming.png) ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
+    ![Python](https://img.icons8.com/color/48/000000/python.png)
+    ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
+    ![JavaScript](https://img.icons8.com/color/48/000000/javascript-logo-1.png)
 
 - Operating System: 
-    - Windows: ![Windows](https://img.icons8.com/color/48/000000/windows-10.png)
-    - MS-DOS: ![MS-DOS](https://img.icons8.com/color/48/000000/console.png)
+    ![Windows](https://img.icons8.com/color/48/000000/windows-10.png)![MS-DOS](https://img.icons8.com/color/48/000000/console.png)
 
 - Database: 
     - Oracle: ![Oracle](https://img.icons8.com/color/48/000000/oracle-logo.png)
