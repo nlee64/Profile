@@ -17,6 +17,7 @@ Here are some of the technologies and tools that I am proficient in:
 - Operating System: 
     ![Windows](https://img.icons8.com/color/48/000000/windows-10.png)
     ![MS-DOS](https://img.icons8.com/color/48/000000/console.png)
+    ![Linux/Unix](https://img.icons8.com/color/48/000000/linux--v1.png)
 
 - Database: 
     ![Oracle](https://img.icons8.com/color/48/000000/oracle-logo.png)
