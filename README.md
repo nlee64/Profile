@@ -1,7 +1,7 @@
 # Profile
 This is my GitHub profile page
 
-Hi, my name is Nari Lee.
+Hi, my name is Nari Lee. I am currently in CPA program at Seneca College.
 
 ## My Skill Set
 
