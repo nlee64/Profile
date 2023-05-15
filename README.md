@@ -37,5 +37,4 @@ Here are some of the technologies and tools that I am proficient in:
 
 
 
-I am excited to bring my diverse skill set to any project I work on, and am committed to delivering high-quality results through a collaborative and innovative approach.
 
