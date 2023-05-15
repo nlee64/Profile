@@ -13,7 +13,6 @@ Here are some of the technologies and tools that I am proficient in:
 ![Python](https://img.icons8.com/color/48/000000/python.png)
 ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
-![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
 ![CSS3](https://img.icons8.com/color/48/000000/css3.png)
 ![HTML5](https://img.icons8.com/color/48/000000/html-5.png)
 ![JSON](https://img.icons8.com/color/48/000000/json.png)
